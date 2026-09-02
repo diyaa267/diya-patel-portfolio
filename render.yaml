@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: diya-patel-portfolio
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
